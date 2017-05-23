@@ -1,1 +1,1 @@
-"7-Zip"  Audacity  Chrome  "Firefox ESR"  "Reader"  Flash  GIMP  iTunes  "Java"  VLC
+"7-Zip"  Audacity  Chrome  "Firefox ESR"  Reader  LibreOffice  Flash  GIMP  iTunes  Java  VLC
